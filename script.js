@@ -3,5 +3,5 @@ document.getElementById("year").textContent = new Date().getFullYear();
 
 // Fungsi tombol
 document.getElementById("contactBtn").addEventListener("click", () => {
-  alert("Kamu bisa hubungi saya di: finn@example.com");
+  alert("Kamu bisa hubungi saya di: brukatak");
   });
